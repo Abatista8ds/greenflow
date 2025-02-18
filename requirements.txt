@@ -1,0 +1,9 @@
+pandas==2.2.0
+matplotlib==3.8.2
+seaborn==0.13.1
+pyarrow==14.0.2
+fastparquet==2024.2.0
+jupyter==1.0.0
+ipykernel==6.29.0
+streamlit==1.32.0
+plotly==5.19.0
